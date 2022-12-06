@@ -1,6 +1,6 @@
 # NIS2-direktivet 🚨⚡️
 
-Den här repositoryn innehåller en sammanställningar som rör det nyligen antagna direktivet om en hög nivå av cybersäkerhet inom den europeiska unionen, NIS2.
+Den här repositoryn innehåller sammanställningar som rör det nyligen antagna direktivet om en hög nivå av cybersäkerhet inom den europeiska unionen, NIS2.
 
 Vänligen notera att det här är ett pågående arbete 🚧
 
