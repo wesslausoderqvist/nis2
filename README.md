@@ -10,6 +10,7 @@ Vi kan inte garantera att innehållet i alla delar är korrekt. Om du hittar nå
 
 - [Bilaga 1 - Högst kritiska sektorer](bilaga-1-högst-kritiska-sektorer.md)
 - [Bilaga 2 - Andra kritiska sektorer](bilaga-2-andra-kritiska-sektorer.md)
+- [Bilaga 3 – Korrelation mellan NIS1 och NIS2](bilaga-3-korrelation-nis1-och-nis2.md)
 
 ## Licens
 
