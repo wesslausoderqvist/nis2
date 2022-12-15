@@ -1,4 +1,4 @@
-# Bilaga 1 - Andra kritiska sektorer
+# Bilaga 2 - Andra kritiska sektorer
 
 ## 1.	Post- och kurirtjänster
 
